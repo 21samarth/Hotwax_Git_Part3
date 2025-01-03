@@ -35,8 +35,8 @@
 **Solution**:
 1. Create and switch to a new branch:  
 
-   git branch new-branch
-   git checkout new-branch
+  - git branch new-branch
+  - git checkout new-branch
    
 2. Make changes and commit.  
 3. Switch back to the `main` branch:  
